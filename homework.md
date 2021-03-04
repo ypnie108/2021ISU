@@ -4,4 +4,5 @@
 
 ### 週作業
 
-   - 無
+   - [作業一](https://ypnie108.github.io/2021ISU/homework1)
+   - [作業二](https://ypnie108.github.io/2021ISU/homework2)
