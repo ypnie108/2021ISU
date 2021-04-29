@@ -41,13 +41,16 @@
    
 1. 第九週:
    - 期中考試
-
-1. 第十週:
    - Bundle
    - Activity回傳資料
+
+1. 第十週:
+   - Main Thread/MessageQueue/Handler
+   - Activity 生命周期
     
 1. 第十一週:
-   - 應用程式的權限設定
+   - RecyclerView
+   - CardView
 
 1. 第十二週:
    - Menu
